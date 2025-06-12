@@ -1,0 +1,30 @@
+
+
+
+
+.linkDisabled {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+.card{
+	margin-bottom: 20px;
+}
+
+.form_date  	> input{
+	background-color: #fff !important;
+}
+
+.form_date  	> input:disabled{
+	background-color: #E9ECEF !important;
+}
+
+label{
+	margin-right: 10px;
+}
+
+.dropdown-menu{
+  width: 300px;
+}
